@@ -1,0 +1,39 @@
+2013-12-03 21:32:05,598 - JDBCConnection - INFO - Conncetion with this DBMS has been made
+2013-12-03 21:32:05,603 - JDBCStatement - INFO - Trying to Exceute : create database omar
+2013-12-03 21:32:05,603 - JDBCStatement - INFO - Executing Update Statement : create database omar
+2013-12-03 21:32:05,604 - JDBCStatement - INFO - Trying to Exceute : use omar
+2013-12-03 21:32:05,605 - JDBCStatement - INFO - Executing Update Statement : use omar
+2013-12-03 21:32:05,610 - JDBCStatement - INFO - Trying to Exceute : create table koko ( c1 Integer , c2 Varchar , c3 boolean )
+2013-12-03 21:32:05,611 - JDBCStatement - INFO - Executing Update Statement : create table koko ( c1 Integer , c2 Varchar , c3 boolean )
+2013-12-03 21:32:05,635 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c1 , c2 , c3 ) values ( 20 , mariam , true )
+2013-12-03 21:32:05,636 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c1 , c2 , c3 ) values ( 20 , mariam , true )
+2013-12-03 21:32:05,672 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c1 , c3 ) values ( 20 , true )
+2013-12-03 21:32:05,672 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c1 , c3 ) values ( 20 , true )
+2013-12-03 21:32:05,685 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c3 , c2 ) values ( false , 'boody' )
+2013-12-03 21:32:05,686 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c3 , c2 ) values ( false , 'boody' )
+2013-12-03 21:32:05,699 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c3 , c3 ) values ( false , true )
+2013-12-03 21:32:05,700 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c3 , c3 ) values ( false , true )
+2013-12-03 21:32:05,712 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c2 , c3 ) values ( 'mariam' , true )
+2013-12-03 21:32:05,714 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c2 , c3 ) values ( 'mariam' , true )
+2013-12-03 21:32:05,730 - JDBCStatement - INFO - Trying to Exceute : select * from koko
+2013-12-03 21:32:05,731 - JDBCStatement - INFO - Executing Select Query : select * from koko
+2013-12-03 21:34:16,584 - JDBCConnection - INFO - Conncetion with this DBMS has been made
+2013-12-03 21:34:16,588 - JDBCStatement - INFO - Trying to Exceute : create database omar
+2013-12-03 21:34:16,588 - JDBCStatement - INFO - Executing Update Statement : create database omar
+2013-12-03 21:34:16,590 - JDBCStatement - INFO - Trying to Exceute : use omar
+2013-12-03 21:34:16,590 - JDBCStatement - INFO - Executing Update Statement : use omar
+2013-12-03 21:34:16,596 - JDBCStatement - INFO - Trying to Exceute : create table koko ( c1 Integer , c2 Varchar , c3 boolean )
+2013-12-03 21:34:16,596 - JDBCStatement - INFO - Executing Update Statement : create table koko ( c1 Integer , c2 Varchar , c3 boolean )
+2013-12-03 21:34:16,608 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c1 , c2 , c3 ) values ( 20 , mariam , true )
+2013-12-03 21:34:16,609 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c1 , c2 , c3 ) values ( 20 , mariam , true )
+2013-12-03 21:34:16,641 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c1 , c3 ) values ( 20 , true )
+2013-12-03 21:34:16,642 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c1 , c3 ) values ( 20 , true )
+2013-12-03 21:34:16,664 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c3 , c2 ) values ( false , 'boody' )
+2013-12-03 21:34:16,665 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c3 , c2 ) values ( false , 'boody' )
+2013-12-03 21:34:16,677 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c3 , c3 ) values ( false , true )
+2013-12-03 21:34:16,678 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c3 , c3 ) values ( false , true )
+2013-12-03 21:34:16,689 - JDBCStatement - INFO - Trying to Exceute : insert into koko ( c2 , c3 ) values ( 'mariam' , true )
+2013-12-03 21:34:16,691 - JDBCStatement - INFO - Executing Update Statement : insert into koko ( c2 , c3 ) values ( 'mariam' , true )
+2013-12-03 21:34:16,704 - JDBCStatement - INFO - Trying to Exceute : select * from koko
+2013-12-03 21:34:16,704 - JDBCStatement - INFO - Executing Select Query : select * from koko
+2013-12-03 21:34:16,710 - JDBCConnection - INFO - Connection Has been closed
